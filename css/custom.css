@@ -87,17 +87,40 @@ span {
     display: block;
 }
 
-.forex img{}
-.crypto img{}
-.whatsapp img{}
-.project5k img{}
-.youtube img{}
-.snapchat img{}
-.mystory img{}
-.abroadcosmetics img{}
-.grfdiet img{}
-.exoticdogs img{}
-.insta img{}
+.forex img{
+    padding-top: 5px;
+}
+.crypto img{
+    margin-top: 48px;
+}
+.whatsapp img{
+    margin-top: 60px;
+}
+.project5k img{
+    margin-top: 12px;
+}
+.youtube img{
+    margin-top: 45px;
+}
+.snapchat img{
+    margin-top: 24px;
+}
+.tradewithkez img{
+  margin-top: 18px;
+}
+.abroadcosmetics img{
+    margin-top: 40px;
+}
+.grfdiet img{
+    margin-top: 8px;
+}
+.pawfection img{
+      margin-top: 15px;
+}
+.insta img{
+    margin-top: 8px;
+}
+
 
 h4{
   color: #40414f;
